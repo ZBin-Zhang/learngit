@@ -1,6 +1,0 @@
-git add file
-git commit -m "name"
-git reset --hard HEAD^
-git checkout -- file
-git reset HEAD file
-git push origin master
